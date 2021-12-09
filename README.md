@@ -1,4 +1,4 @@
-![Barry's GitHub stats](https://readme-stats-barryliu97.vercel.app/api?username=BarryLiu97&show_icons=true&theme=dark)
+![Barry's GitHub stats](https://readme-stats-envoy-vc.vercel.app/api?username=BarryLiu97&show_icons=true&theme=dark)
 ### Hi there 👋
 
 <!--
