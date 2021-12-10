@@ -1,5 +1,4 @@
 ![Barry's GitHub stats](https://readme-stats-envoy-vc.vercel.app/api?username=BarryLiu97&show_icons=true&theme=dark)    
-[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=BarryLiu97&layout=compact)](https://github.com/BarryLiu97/BarryLiu97)
 
 <!--
 **BarryLiu97/BarryLiu97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
